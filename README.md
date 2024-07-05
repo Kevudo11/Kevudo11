@@ -11,8 +11,6 @@
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/)
 
-🔎 Também sou curioso sobre Futebol ⚽
-
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
